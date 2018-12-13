@@ -1,9 +1,7 @@
----
 # Stone-language
--------------
 
 > 关于我，欢迎关注  
-  博客：[一旬一题](http://greens1995.com)  掘金：[https://juejin.im/user/57ff552d5bbb50005b4e9ef9](https://juejin.im/user/57ff552d5bbb50005b4e9ef9)   
+  博客：[mathor](https://wmathor.com)
   
   持续关注和分享：Android 性能调优、单元测试和重构、实用中间件、各种好玩的特效和黑科技、和小众刁钻没卵用需求的折腾记录。
  (如果你想打造个人品牌，把自己的介绍放在这里也是可以的)
