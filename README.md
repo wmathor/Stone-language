@@ -7,43 +7,42 @@
 
 ### 目录说明 
 #### [First Day]()
-
 机器语言、汇编语言简介，语言处理器概述
-- [Second Day]()
+#### [Second Day]()
 
-- [Third Day]()
+#### [Third Day]()
 
-- [Fourth Day]()
+#### [Fourth Day]()
 
-- [Fifth Day]()
+#### [Fifth Day]()
 
-- [Sixth Day]()
+#### [Sixth Day]()
 
-- [Seventh Day]()
+#### [Seventh Day]()
 
-- [Eighth Day]()
+#### [Eighth Day]()
 
-- [Ninth Day]()
+#### [Ninth Day]()
 
-- [Tenth Day]()
+#### [Tenth Day]()
 
-- [Eleventh Day]()
+#### [Eleventh Day]()
 
-- [Twelfth Day]()
+#### [Twelfth Day]()
 
-- [Thirteenth Day]()
+#### [Thirteenth Day]()
 
-- [Fourteenth Day]()
+#### [Fourteenth Day]()
 
-- *[Fifteenth Day]()
+#### *[Fifteenth Day]()
 
-- *[Sixteenth Day]()
+#### *[Sixteenth Day]()
 
-- *[Seventeenth Day]()
+#### *[Seventeenth Day]()
 
-- *[Eighteenth Day]()
+#### *[Eighteenth Day]()
 
-- *[Nineteenth Day]()
+#### *[Nineteenth Day]()
 ### 原理说明
 项目基于《两周自制脚本语言》（日）此书编写
 
