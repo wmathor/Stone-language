@@ -9,7 +9,7 @@
 ### 第1部分 基础篇
 ##### [First Day](https://github.com/mathors/Stone-language/tree/master/First%20Day)
 机器语言、汇编语言简介，语言处理器概述
-##### [Second Day]()
+##### [Second Day](https://github.com/mathors/Stone-language/tree/master/Second%20Day)
 设计Stone语言，决定Stone语言需要具备哪些语法功能
 ##### [Third Day]()
 设计词法分析器，介绍通过正则表达式实现词法分析的方法
