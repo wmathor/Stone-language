@@ -1,5 +1,9 @@
 # Stone-language
-<p align = "center"><img height="60%" width = "70%" src = "https://s1.ax1x.com/2018/12/15/FaQuNt.png"></p>
+<p align = "center">
+  <a href = "https://github.com/mathors/Stone-language">
+    <img height="60%" width = "70%" src = "https://s1.ax1x.com/2018/12/15/FaQuNt.png">
+  </a>
+</p>
 
 <p align = "center">
   <a href = "https://github.com/mathors/Stone-language">
