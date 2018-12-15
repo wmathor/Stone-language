@@ -1,5 +1,5 @@
 # Stone-language
-![](https://s1.ax1x.com/2018/12/15/FaQuNt.png#shadow)
+<p align = "center">![](https://s1.ax1x.com/2018/12/15/FaQuNt.png#shadow)</p>
 > 一个热爱数学的程序员，目前大三，普通三本，欢迎关注，蟹蟹~  
   博客：[mathor](https://wmathor.com)
   
