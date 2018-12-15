@@ -1,7 +1,19 @@
 # Stone-language
 <p align = "center"><img height="60%" width = "70%" src = "https://s1.ax1x.com/2018/12/15/FaQuNt.png"></p>
 
-<p align = "center"><img src="https://img.shields.io/cocoapods/p/EFQRCode.svg?style=flat"> <img src="https://img.shields.io/badge/language-Java-orange.svg">  <img src = "https://img.shields.io/badge/Compiler-Eclipse-blue.svg"> <a herf = "https://wmathor.com/" target = "_blank"><img src = "https://img.shields.io/badge/Blog-wmathor-orange.svg"></a>
+<p align = "center">
+  <a href = "https://github.com/mathors/Stone-language">
+    <img src="https://img.shields.io/cocoapods/p/EFQRCode.svg?style=flat">
+  </a>
+  <a href = "https://github.com/mathors/Stone-language">
+    <img src="https://img.shields.io/badge/language-Java-orange.svg">
+  </a>
+  <a href = "https://github.com/mathors/Stone-language">
+    <img src = "https://img.shields.io/badge/Compiler-Eclipse-blue.svg">
+  </a>
+  <a href = "https://wmathor.com/" target = "_blank">
+    <img src = "https://img.shields.io/badge/Blog-wmathor-orange.svg">
+  </a>
 </p>
 
 > 一个热爱数学的程序员，目前大三，普通三本，欢迎关注，蟹蟹~  
