@@ -4,12 +4,8 @@
   </a>
 </p>
 
-<p align = "center">
   <a href = "https://github.com/mathors/Stone-language">
-    <img src="https://img.shields.io/cocoapods/p/EFQRCode.svg?style=flat">
-  </a>
-  <a href = "https://github.com/mathors/Stone-language">
-    <img src="https://img.shields.io/badge/language-Java-orange.svg">
+    <img src="https://img.shields.io/badge/language-Java-green.svg">
   </a>
   <a href = "https://github.com/mathors/Stone-language">
     <img src = "https://img.shields.io/badge/Compiler-Eclipse-blue.svg">
