@@ -25,17 +25,23 @@
 - [First Day](https://github.com/mathors/Stone-language/tree/master/First%20Day)
 
 机器语言、汇编语言简介，语言处理器概述
-##### [Second Day](https://github.com/mathors/Stone-language/tree/master/Second%20Day)
+- [Second Day](https://github.com/mathors/Stone-language/tree/master/Second%20Day)
+
 设计Stone语言，决定Stone语言需要具备哪些语法功能
-##### [Third Day](https://github.com/mathors/Stone-language/tree/master/Third%20Day)
+- [Third Day](https://github.com/mathors/Stone-language/tree/master/Third%20Day)
+
 设计词法分析器，介绍通过正则表达式实现词法分析的方法
-##### [Fourth Day](https://github.com/mathors/Stone-language/tree/master/Fourth%20Day)
+- [Fourth Day](https://github.com/mathors/Stone-language/tree/master/Fourth%20Day)
+
 讲解抽象语法树，并通过BNF表达Stone语言的语法
-##### [Fifth Day](https://github.com/mathors/Stone-language/tree/master/Fifth%20Day)
+- [Fifth Day](https://github.com/mathors/Stone-language/tree/master/Fifth%20Day)
+
 利用非常简单的解析器组合子库创建语法解释器
-##### [Sixth Day](https://github.com/mathors/Stone-language/tree/master/Sixth%20Day)
+- [Sixth Day](https://github.com/mathors/Stone-language/tree/master/Sixth%20Day)
+
 设计一种极为基本的解释器。解释器将能够实际执行Stone语言写成的程序
-##### [Seventh Day](https://github.com/mathors/Stone-language/tree/master/Seventh%20Day)
+- [Seventh Day](https://github.com/mathors/Stone-language/tree/master/Seventh%20Day)
+
 增强解释器的功能，使它能够执行程序中的函数，并且支持闭包语法
 ##### [Eighth Day](https://github.com/mathors/Stone-language/tree/master/Eighth%20Day)
 为解释器增加static方法的调用支持，使Stone语言能像Java语言那样调用静态方法
