@@ -5,13 +5,13 @@
 </p>
 <p align = "center">
   <a href = "https://github.com/mathors/Stone-language">
-    <img src="https://img.shields.io/badge/language-Java-green.svg">
+    <img src="https://img.shields.io/badge/language-Java-brightgreen.svg">
   </a>
   <a href = "https://github.com/mathors/Stone-language">
-    <img src = "https://img.shields.io/badge/Compiler-Eclipse-blue.svg">
+    <img src = "https://img.shields.io/badge/Compiler-Eclipse-brightblue.svg">
   </a>
   <a href = "https://wmathor.com/" target = "_blank">
-    <img src = "https://img.shields.io/badge/Blog-wmathor-orange.svg">
+    <img src = "https://img.shields.io/badge/Blog-wmathor-brightorange.svg">
   </a>
 </p>
 
