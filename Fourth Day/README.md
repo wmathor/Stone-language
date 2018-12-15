@@ -41,7 +41,7 @@ ASTLeaf child(int i) | 返回第i个子节点
 int numChildren() | 返回子节点的个数（没有返回0）
 Iterator<ASTree> children() | 返回一个用于遍历子节点的iterator
 
-此外，ASTree类还含有1ocation方法与iterator方法。location方法将返回一个用于表示抽象语法树节点在程序内所处位置的字符串。iterator方法与children方法功能相同，它是一个适配器，在将ASTree类转为Iterable类型时将会用到该方法
+此外，ASTree类还含有location方法与iterator方法。location方法将返回一个用于表示抽象语法树节点在程序内所处位置的字符串。iterator方法与children方法功能相同，它是一个适配器，在将ASTree类转为Iterable类型时将会用到该方法
 
 ASTLeaf是叶节点对象的类，叶节点对象没有子节点，因此numChildren方法将始终返回0，children方法将返回一个与空集合关联的Iterator对象。
 
