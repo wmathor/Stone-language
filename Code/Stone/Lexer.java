@@ -1,5 +1,4 @@
 package Stone;
-
 import java.io.IOException;
 import java.io.LineNumberReader;
 import java.io.Reader;
@@ -8,10 +7,9 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Lexer {
-	private static String regexInt = "[0-9]+";
-	private static String regexIdentifier = "[A-Z_a-z][A-Z_a-z0-9]*|==|<=|>=|&&|\\|\\||\\p{Punct}";
-	private static String regexString = "\"(\\\\\"|\\\\\\\\|\\\\n|[^\"])*\"";
-	public static String regexPat = "\\s*((//.*)|" + regexInt + "|(" + regexString + ")" + "|" + regexIdentifier + ")?";
+	public static String regexPat
+    = "\\s*((//.*)|([0-9]+)|(\"(\\\\\"|\\\\\\\\|\\\\n|[^\"])*\")"
+      + "|[A-Z_a-z][A-Z_a-z0-9]*|==|<=|>=|&&|\\|\\||\\p{Punct})?";
 	private Pattern pattern = Pattern.compile(regexPat);
 	private ArrayList<Token> queue = new ArrayList<Token>();
 	private boolean hasMore; // Mark if there are still characters
