@@ -8,7 +8,8 @@ eval方法将递归调用该节点的子节点的eval方法，并根据它们的
 例如，下图显示了调用`+`运算符对应节点对象的eval方法后的计算流程。下面是eval方法的简化版本（实际的方法会更复杂一些）
 
 ![](https://s1.ax1x.com/2018/12/16/FdMDVs.png#shadow)
-该节点含有两个子节点，对应节点对象的eval方法将被依次调用。左侧left()对应的子节点的eval方法将返回13，右侧right()对应的子节点的eval方法将返回x*2的计算结果。将两侧eval方法的返回值相加，就能得到+运算符的计算结果。该结果将成为+节点的eval方法的返回值
+
+该节点含有两个子节点，对应节点对象的eval方法将被依次调用。左侧left()对应的子节点的eval方法将返回13，右侧right()对应的子节点的eval方法将返回x&#042;2的计算结果。将两侧eval方法的返回值相加，就能得到+运算符的计算结果。该结果将成为+节点的eval方法的返回值
 ```java
 public Object eval(Environment env) {
     Object left = left().eval(env);
