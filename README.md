@@ -27,6 +27,32 @@ First, download Stone.jar from the Code directory and import it into your IDE.
 
 Then run the JavaRunner.java code in the chap14 package.
 
+Stone language support function, like this
+```
+def fib(n) {
+    if n < 2 {
+        n
+    } else  {
+        fib(n - 1) + fib(n - 2)
+    }
+}
+fib 33
+```
+
+Also supports object-oriented syntax, like this
+```
+class Position {
+    x = y = 0
+    def move(nx,ny) {
+        x = nx; y = ny
+    }
+}
+p = Position.new
+p.move(3, 4)
+p.x = 10
+print p.x + p.y
+```
+
 ## Directory 
 ### Part 1 Basics
 #### [First Day](https://github.com/mathors/Stone-language/tree/master/First%20Day)
