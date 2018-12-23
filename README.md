@@ -17,19 +17,19 @@
 
 > I am a junior, three ordinary, welcome to pull request/fork/star, thank you~
   
-或许你也刚学完编译原理，或者没有，但是你想自制一个属于自己的编程语言，那么看这个项目就对了，我将用14天设计一个简单的脚本语言
+Maybe you just finished compiling the principle, or not, but you want to make a programming language of your own, then look at this project is right, I will design a simple scripting language in 14 days.
 
-## 目录说明 
-### 第1部分 基础篇
+## Directory 
+### Part 1 Basics
 #### [First Day](https://github.com/mathors/Stone-language/tree/master/First%20Day)
 
-机器语言、汇编语言简介，语言处理器概述
+Introduction to machine language, assembly language, language processor overview
 #### [Second Day](https://github.com/mathors/Stone-language/tree/master/Second%20Day)
 
-设计Stone语言，决定Stone语言需要具备哪些语法功能
+Design the Stone language to determine what grammar functions the Stone language needs
 #### [Third Day](https://github.com/mathors/Stone-language/tree/master/Third%20Day)
 
-设计词法分析器，介绍通过正则表达式实现词法分析的方法
+Design a lexical analyzer to introduce methods for lexical analysis through regular expressions
 #### [Fourth Day](https://github.com/mathors/Stone-language/tree/master/Fourth%20Day)
 
 讲解抽象语法树，并通过BNF表达Stone语言的语法
