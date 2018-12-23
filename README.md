@@ -20,7 +20,9 @@
 Maybe you just finished compiling the principle, or not, but you want to make a programming language of your own, then look at this project is right, I will design a simple scripting language in 14 days.
 
 ## Final Effect
-noting
+First, download Stone.jar from the Code directory and import it into your IDE.
+
+Then run the JavaRunner.java code in the chap14 package.
 
 ## Directory 
 ### Part 1 Basics
