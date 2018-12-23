@@ -67,6 +67,7 @@ p.move(3, 4)
 p.x = 10
 print p.x + p.y
 ```
+There are also many language-supported grammars in the Stone language, such as arrays, object inheritance, etc.
 
 ## Directory 
 ### Part 1 Basics
