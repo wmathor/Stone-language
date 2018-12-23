@@ -51,6 +51,7 @@ New class and object syntax for the Stone language
 #### [Tenth Day](https://github.com/mathors/Stone-language/tree/master/Tenth%20Day)
 
 Add array functionality to the Stone language
+
 -----
 ### Part 2 Performance Optimization
 #### [Eleventh Day](https://github.com/mathors/Stone-language/tree/master/Eleventh%20Day)
@@ -65,6 +66,8 @@ The Stone language interpreter also uses the mechanism of intermediate code inte
 #### [Fourteenth Day](https://github.com/mathors/Stone-language/tree/master/Fourteenth%20Day)
 
 Finally, to improve performance, the Stone language needs to support static data types and further optimize performance based on data types. When executing a Stone language program with a static data type, the compiler can first convert it to Java binary code and execute the program directly from the Java virtual machine. It also adds type checking to the compiler, checks for type errors before executing the program, and provides type prediction. In this way, even if the program does not explicitly declare the data type, the Stone language interpreter can speculate and specify the appropriate type.
+
+-----
 ### Part 3 Advanced (self-study)
 #### [Fifteenth Day](https://github.com/mathors/Stone-language/tree/master/Fifteenth%20Day)
 
