@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> welcome to pull request/fork/star, thanks~
+Welcome to pull request/fork/star, thanks~
   
 Maybe you just finished compiling the principle, or not, but you want to make a programming language of your own, then look at this project is right, I will design a simple scripting language in 14 days.
 
