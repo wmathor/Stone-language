@@ -20,7 +20,7 @@
 Maybe you just finished compiling the principle, or not, but you want to make a programming language of your own, then look at this project is right, I will design a simple scripting language in 14 days.
 
 ## Final Effect
-![](https://s1.ax1x.com/2018/12/23/FyqytJ.gif#shadow)
+![](https://s1.ax1x.com/2018/12/23/FyXJte.gif#shadow)
 
 ## How To Use
 First, download Stone.jar from the Code directory and import it into your IDE.
@@ -163,5 +163,7 @@ The Stone language interpreter is implemented using the GluonJ system, which all
 
 Introduce the advantages and disadvantages of using design patterns to implement abstract syntax trees, and compare them with GluonJ.
 
+## Summary
+![](https://s1.ax1x.com/2018/12/23/FyXdXt.png#shadow)
 ## TODO
 I will modify the syntax of the Stone language to make it support Chinese scripting language, similar to easy language.
