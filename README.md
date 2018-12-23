@@ -38,6 +38,21 @@ def fib(n) {
 }
 fib 33
 ```
+Branches, loop statements are also essential
+```
+odd = 0
+even = 0
+i = 1
+while i < 11 {
+    if i % 2 == 0 {
+        even = even + i
+    } else {
+        odd = odd + i
+    }
+    i = i + 1
+}
+even + odd
+```
 
 Also supports object-oriented syntax, like this
 ```
