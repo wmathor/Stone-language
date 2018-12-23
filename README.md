@@ -19,6 +19,9 @@
   
 Maybe you just finished compiling the principle, or not, but you want to make a programming language of your own, then look at this project is right, I will design a simple scripting language in 14 days.
 
+## Final Effect
+noting
+
 ## Directory 
 ### Part 1 Basics
 #### [First Day](https://github.com/mathors/Stone-language/tree/master/First%20Day)
@@ -84,9 +87,6 @@ The Stone language interpreter is implemented using the GluonJ system, which all
 #### [Nineteenth Day](https://github.com/mathors/Stone-language/tree/master/Nineteenth%20Day)
 
 Introduce the advantages and disadvantages of using design patterns to implement abstract syntax trees, and compare them with GluonJ.
-
-### Final Effect
-noting
 
 ### TODO
 noting
