@@ -96,6 +96,7 @@ p.set(5,6,7)
 print p.z
 ```
 
+-----
 ## Directory 
 ### Part 1 Basics
 #### [First Day](https://github.com/mathors/Stone-language/tree/master/First%20Day)
