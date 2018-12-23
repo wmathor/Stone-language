@@ -1,4 +1,4 @@
-<p align = "center">
+<p align = "">
   <a href = "https://github.com/mathors/Stone-language">
     <img height="60%" width = "70%" src = "https://s1.ax1x.com/2018/12/15/FaQuNt.png">
   </a>
