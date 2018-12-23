@@ -51,6 +51,7 @@ New class and object syntax for the Stone language
 #### [Tenth Day](https://github.com/mathors/Stone-language/tree/master/Tenth%20Day)
 
 Add array functionality to the Stone language
+-----
 ### Part 2 Performance Optimization
 #### [Eleventh Day](https://github.com/mathors/Stone-language/tree/master/Eleventh%20Day)
 
