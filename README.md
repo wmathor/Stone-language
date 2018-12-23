@@ -68,6 +68,33 @@ p.x = 10
 print p.x + p.y
 ```
 There are also many language-supported grammars in the Stone language, such as arrays, object inheritance, etc.
+```
+a = [2,3,4]
+print a[1]
+a[1] = "three"
+print "a[1]: " + a[1]
+b = [["one",1],["two",2]]
+print b[1][0] + ": " + b[1][1]
+```
+```
+class Position {
+    x = y = 0
+    def move(nx,ny) {
+        x = nx; y = ny
+    }
+}
+class Pos3D extends Position {
+    z = 0
+    def set(nx,ny,nz) {
+        x = nx;y = ny;z = nz
+    }
+}
+p = Pos3D.new
+p.move(3,4)
+print p.x
+p.set(5,6,7)
+print p.z
+```
 
 ## Directory 
 ### Part 1 Basics
