@@ -96,7 +96,6 @@ p.set(5,6,7)
 print p.z
 ```
 
------
 ## Directory 
 ### Part 1 Basics
 #### [First Day](https://github.com/mathors/Stone-language/tree/master/First%20Day)
@@ -165,5 +164,6 @@ Introduce the advantages and disadvantages of using design patterns to implement
 
 ## Summary
 ![](https://s1.ax1x.com/2018/12/23/FyXdXt.png#shadow)
+
 ## TODO
 I will modify the syntax of the Stone language to make it support Chinese scripting language, similar to easy language.
